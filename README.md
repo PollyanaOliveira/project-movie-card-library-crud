@@ -1,4 +1,4 @@
-<h1 align="center">🎥 🎬🍿Movie Cards Library Project</h1>
+<h1 align="center">🎥 🎬🍿Movie Cards Library CRUD Project</h1>
 
 ## Desenvolvido por
 @PollyanaOliveira
